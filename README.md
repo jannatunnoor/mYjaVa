@@ -1,0 +1,3 @@
+# mYjaVa
+Preliminary java codes
+
